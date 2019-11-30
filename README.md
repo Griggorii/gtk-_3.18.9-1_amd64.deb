@@ -10,3 +10,11 @@ $$cd https://github.com/Griggorii/gtk-_3.24.8-1_amd64.deb.git
 $$sudo dpkg gtk+_3.24.8-1_amd64.deb && sudo apt update && sudo apt install gtk-3-examples
 
 $$gtk3-widget-factory
+___________________________________
+
+$$gtk3-demo
+
+___________________________________
+
+
+$$gtk3-icon-browser
