@@ -1,5 +1,5 @@
-# gtk+_3.24.8-1_amd64.deb ubuntu 18.10 OS8.0 | gtk+_3.18.9-1 OS16.04
-gtk+_3.24.8-1_amd64.deb ubuntu 18.10 OS8.0 | gtk+_3.18.9-1 OS16.04
+# gtk+_3.24.8-1_amd64.deb ubuntu 18.10 OS8.0 | gtk+_3.18.9-1 OS16.04 | gtk3-dev
+gtk+_3.24.8-1_amd64.deb ubuntu 18.10 OS8.0 | gtk+_3.18.9-1 OS16.04 | gtk3-dev
 
 $$sudo apt update && sudo apt install git -y
 
