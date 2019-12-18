@@ -11,6 +11,9 @@ $$cd gtk-_3.24.8-1_amd64.deb
 
 $$sudo dpkg -i gtk+_3.18.9-1_amd64.deb && sudo apt update && sudo apt install gtk-3-examples -y
 
+___________________________________
+
+
 $$gtk3-widget-factory
 ___________________________________
 
@@ -20,3 +23,6 @@ ___________________________________
 
 
 $$gtk3-icon-browser
+
+-------------------------------------------------------------------------------
+Replace my package gtk+ , libglib2.0-dev-bin , libgtk-3-common , libglib2.0-dev , gtk-update-icon-cache , libglib2.0-bin
