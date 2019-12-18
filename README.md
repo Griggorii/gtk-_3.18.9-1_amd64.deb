@@ -9,7 +9,7 @@ $$git clone https://github.com/Griggorii/gtk-_3.24.8-1_amd64.deb.git
 
 $$cd gtk-_3.24.8-1_amd64.deb
 
-$$sudo dpkg -i gtk+_3.24.8-1_amd64.deb && sudo apt update && sudo apt install gtk-3-examples -y
+$$sudo dpkg -i gtk+_3.18.9-1_amd64.deb && sudo apt update && sudo apt install gtk-3-examples -y
 
 $$gtk3-widget-factory
 ___________________________________
