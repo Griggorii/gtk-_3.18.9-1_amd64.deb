@@ -1,25 +1,24 @@
 # gtk+_3.18.9-1_amd64.deb ubuntu 18.10 OS8.0 | gtk3-dev
 
-$$ sudo apt update && sudo apt install git -y
-
-$$ cd ~
-
-$$ git clone https://github.com/Griggorii/gtk+_3.18.9-1_amd64.deb.git
+$$ sudo apt purge libgtk-3-bin libgtk-3-dev && sudo apt update && sudo apt install git -y
 
 $$ cd gtk+_3.18.9-1_amd64.deb
 
-$$ sudo dpkg -i gtk+_3.18.9-1_amd64.deb && sudo apt update && sudo apt install gtk-3-examples -y
+$$ sudo dpkg -i gtk+_3.18.9-1_amd64.deb &&
+
+$$ gtk3-widget-factory
+
+Not run ok fix ↓↓↓↓↓↓↓↓↓↓↓↓
+
+sudo apt update && sudo apt install gtk-3-examples -y
 
 ___________________________________
-
 
 $$ gtk3-widget-factory
 ___________________________________
 
 $$ gtk3-demo
-
 ___________________________________
-
 
 $$ gtk3-icon-browser
 
